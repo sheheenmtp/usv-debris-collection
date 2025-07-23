@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments
+.env/
+venv/
+ENV/
+
+# VSCode and IDE folders
+.vscode/
+.idea/
+
+# Model weights
+*.pt
+*.onnx
+
+# Logs and outputs
+logs/
+outputs/
